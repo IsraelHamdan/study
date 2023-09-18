@@ -1,0 +1,34 @@
+.container {
+  width: 100%;
+  height: 100%;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 200px);
+  grid-template-rows: 200px 200px;
+  grid-template-areas:
+    "yellow green"
+    "red blue";
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  border: none;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
