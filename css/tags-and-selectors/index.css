@@ -1,0 +1,33 @@
+body {
+  background-color: #fefefeb0;
+}
+
+button {
+  background-color: rebeccapurple;
+}
+
+.btn {
+  background-color: indianred;
+}
+
+.header-btn_categories-dropdown_span {
+  display: none;
+}
+
+#btn-singin {
+  background-color: gray;
+}
+
+div {
+  color: rebeccapurple;
+  font-size: 40px;
+  font-family: "JetBrains Mono";
+}
+
+p {
+  color: gray;
+}
+
+.paragraph {
+  color: aquamarine;
+}
