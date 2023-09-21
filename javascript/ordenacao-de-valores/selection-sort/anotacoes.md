@@ -21,4 +21,4 @@
     .
     . Array ordenado: Array = [1, 2, 3, 5, 8, 13]
 
-    ![Ilustração do Selection Sort](./Captura%20de%20tela%202023-09-21%20165908.png)
+    ![Ilustração do Selection Sort](./selection.png)
