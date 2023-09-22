@@ -21,4 +21,3 @@
     .
     . Array ordenado: Array = [1, 2, 3, 5, 8, 13]
 
-    ![Ilustração do Selection Sort](https://github.com/IsraelHamdan/study/blob/main/javascript/ordenacao-de-valores/selection-sort/selection.png)

@@ -14,12 +14,16 @@
 </head>
 
 <body>
-  <div class="mb-3">
-    <label for="" class="form-label">Elementos</label>
-    <input type="text" class="form-control" name="" id="value" aria-describedby="helpId" placeholder="">
-    <div class="list-group">
+  <div class="mb-3 col-10 flex-row">
+    <div class="flex-row">
+      <label for="" class="form-label">Elementos</label>
+      <input type="text" class="form-control" name="" id="value" aria-describedby="helpId" placeholder="">
+    </div>
+    <div class="list-group flex-column mr-8">
       <button id="btn" type="button" class="list-group-item list-group-item-action active mt-3"
         aria-current="true">Adicionar</button>
+      <button id="btnOrder" type="button" class="list-group-item list-group-item-action active mt-3"
+        aria-current="true">Ordenar</button>
     </div>
   </div>
 
